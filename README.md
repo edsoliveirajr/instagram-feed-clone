@@ -1,6 +1,6 @@
 # UI Clone: Instagram
 
-Instagram interface clone made with React Native ❤️
+Instagram interface clone made with React Native
 
 ## Features
 
